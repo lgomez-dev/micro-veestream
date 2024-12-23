@@ -1,4 +1,4 @@
-# Project Title
+# Vee Stream (Netflix / DAZN inspired clone)
 
 ![Tech Stack Badge](https://img.shields.io/badge/Tech%20Stack-Golang%20/%20Svelte-red)
 
